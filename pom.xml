@@ -25,9 +25,9 @@
     </licenses>
 
     <scm>
-        <url>git@github.com:82006463/zhanlu-meta.git</url>
-        <connection>scm:git:git@github.com:82006463/zhanlu-meta.git</connection>
-        <developerConnection>scm:git:git@github.com:82006463/zhanlu-meta.git</developerConnection>
+        <url>git@github.com:82006463/zhanlu-app.git</url>
+        <connection>scm:git:git@github.com:82006463/zhanlu-app.git</connection>
+        <developerConnection>scm:git:git@github.com:82006463/zhanlu-app.git</developerConnection>
     </scm>
 
     <build>
