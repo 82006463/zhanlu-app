@@ -10,11 +10,11 @@
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>zhanlu-app</artifactId>
+    <artifactId>zhanlu-render</artifactId>
     <packaging>jar</packaging>
-    <name>zhanlu-app</name>
-    <url>https://github.com/82006463/zhanlu-app</url>
-    <description>zhanlu-app</description>
+    <name>zhanlu-render</name>
+    <url>https://github.com/82006463/zhanlu-render</url>
+    <description>zhanlu-render</description>
 
     <licenses>
         <license>
