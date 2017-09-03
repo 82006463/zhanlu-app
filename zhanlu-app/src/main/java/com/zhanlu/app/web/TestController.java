@@ -1,4 +1,4 @@
-package com.zhanlu.meta.web;
+package com.zhanlu.app.web;
 
 import com.google.common.collect.Maps;
 import org.springframework.stereotype.Controller;
